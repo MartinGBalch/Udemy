@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A4783A32-418C-AA1B-90A3-E5B6F217332E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "section_3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

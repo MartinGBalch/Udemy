@@ -1,0 +1,12 @@
+# Unreal Engine 4
+Build/
+Binaries/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+
+*.opendb
+*.db
+*.sln
